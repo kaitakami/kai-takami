@@ -1,0 +1,17 @@
+{
+  "pages": [
+    {
+      "title": "Kai Takami",
+      "navbar": "About",
+      "href": "/"
+    },{
+      "title": "Life",
+      "navbar": "Life",
+      "href": "/life"
+    },{
+      "title": "Blog",
+      "navbar": "Blog",
+      "href": "/blog"
+    }
+  ]
+}
