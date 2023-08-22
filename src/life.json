@@ -2,95 +2,121 @@
   "photos": [
     {
       "title": "Nico IRL",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Traveling to hometown after 4 years",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
+
     },
     {
       "title": "Moving to Mexico",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
+
     },
     {
       "title": "Last day in Japan",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Last trip in Japan",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Hiroshima at night",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "At Osaka Dotonbori",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Best restaurant in Onomichi",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
+
     },
     {
       "title": "150km into Onomichi",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Before doing 150km in Onomichi my fav city",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Kyoto Hashinodate unique place",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Last time in Himeji",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Way back from Awaji",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "150 km into Awaji",
-      "url": "/images/"
+      "src": "/images/",
+      "width": ""
     },
     {
       "title": "Last day as a high schooler",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "Snowy day in Japan",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "Cycling event in Japan",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "In middle of a Taifu",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "Crazy way back from Tokyo",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "Solo camping in the middle of nowhere",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "Tokyo tower",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "Une dam",
-      "url": ""
+      "src": "",
+      "width": ""
     },
     {
       "title": "Ako Park",
-      "url": ""
+      "src": "",
+      "width": ""
     }
   ]
 }

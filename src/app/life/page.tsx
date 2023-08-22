@@ -11,6 +11,7 @@ const Page = () => {
           <Image
             src={photo.src}
             alt={photo.title}
+            width={photo.width}
           />
         </div>)
       }
