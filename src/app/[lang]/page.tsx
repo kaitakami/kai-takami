@@ -22,8 +22,8 @@ export default function Home() {
       </section>
       <section>
         <p className="text-primary">
-          Hey, I&apos;m a Software Engineer at Domu. I get to play with cool stuff everyday.
-          I&apos;m 19, I learned to code by my own watching YouTube videos. I love to build products while I learn. I think that impossible just takes longer.
+          Software Engineer at Domu. I get to play with cool stuff everyday.
+          I&apos;m 19. Learned to code by my own watching YouTube videos. Love to build products while I learn. I think that <b><i>impossible just takes longer.</i></b>
           {/* TODO: use MDX here */}
         </p>
       </section>
