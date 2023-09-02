@@ -7,7 +7,7 @@ export default function Home() {
       <h1 className="mb-6 text-3xl font-black md:text-4xl text-bold">
         {website.pages[0].title}
       </h1>
-      <section className="w-full">
+      <nav className="w-full">
         <ul className="flex justify-end gap-2 mb-6 text-primary/80">
           {
             website.pages.map((page) =>
@@ -19,7 +19,7 @@ export default function Home() {
             )
           }
         </ul>
-      </section>
+      </nav>
       <section>
         <p className="text-primary">
           Software Engineer at Domu. I get to play with cool stuff everyday.
